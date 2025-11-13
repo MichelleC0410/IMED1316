@@ -72,3 +72,8 @@ p {
     position: relative;
     margin-bottom: 30px;
 }
+
+.LottieFiles{
+    background-color: lightgrey;
+    padding: 20px;
+}
