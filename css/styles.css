@@ -73,7 +73,7 @@ p {
     margin-bottom: 30px;
 }
 
-.LottieFiles{
+.LottieFiles {
     background-color: var(--accentColor) !important;
     padding: 25px;
     color: #ffffff !important;
@@ -81,6 +81,6 @@ p {
     margin-bottom: 40 px;
 }
 
-.LottieFiles h2{
+.LottieFiles h2 {
    color: #ffffff !important;  
 }
